@@ -1,7 +1,7 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Javierdddd."
+  title: "Hello, I’m Javier del Valle."
   subtitle: "Estudiante de ingeniería"
   description: "Estudio en la <a target='_blank' href='https://www.ing.uc.cl/'>Escuela de Ingeniería de la Ponticficia Universidad Católica de Chile</a>, también conocida como PUC, Ponticato, Ponticuica, nido de los esos del Movimiento Gremial . And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
